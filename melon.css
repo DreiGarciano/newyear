@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+
+body {
+    text-align: center;
+    font-size: 15px;
+    background: gray;
+    font-family: Carter One;
+}
+
+
+.question h1 {
+    background-color: #f9cee7;
+    border: solid purple 5px;
+    border-radius: 25px;
+    display: inline-block;
+    color: purple;
+}
+
+img {
+    border: solid purple 25px;
+    border-radius: 25px;
+}
+
+.text h3 {
+    display: inline-block;
+    background: #f9cee7;
+    border: solid purple 5px;
+    border-radius: 25px;
+    color: purple;
+    font-size: 25px;
+}
+
+button {
+    color: purple;
+    background: #f9cee7;
+    border: solid purple 5px;
+    border-radius: 25px;
+    font-size: 50px;
+    font-family: Carter One;
+}
+
+button:hover {
+    cursor: pointer;
+}
